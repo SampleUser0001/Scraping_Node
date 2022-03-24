@@ -1,0 +1,14 @@
+{
+  "name": "Scraping_Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SampleUser0001/Scraping_Node",
+  "author": "ittimfn <ittimfn+github@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
